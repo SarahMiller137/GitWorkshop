@@ -1,4 +1,4 @@
-# GitWorkshop
+# Git Workshop
 
 
 This is where the project information will be...
