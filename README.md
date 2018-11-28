@@ -10,3 +10,7 @@ Some project information that has been added to the readme file
 >This is some quoted text
 
 _Feed the cats_
+
+To-Do
+1. Learn to collaborate in GitHub
+2. kdfjkdsjf
